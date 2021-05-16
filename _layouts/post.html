@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="content-wrapper">
+  <h2>{{ page.title }}<br>
+    <small>
+      {% for category in page.categories %}
+        <a href="{{ site.baseurl }}/category/{{ category }}">#{{ category | replace: "-", " " }}</a>
+      {% endfor %}
+    </small>
+  </h2>
+
+  {{ content }}
+</div>
