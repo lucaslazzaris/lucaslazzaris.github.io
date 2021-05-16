@@ -86,6 +86,7 @@ Chegou o momento de procurar emprego. O que fazer? Existem pessoas que se especi
 
 Outro ponto importante: não se assuste com os pré-requisitos das vagas. Diversas posições não vão encontrar um profissional que apresenta 100% das qualificações exigidas. Especialmente em programação, onde existem vagas que viram piadas no tweeter pelo excesso de requisitos.
 
+Se possível procure um outro programador com mais experiência para ajudar nessa jornada de mudança de carreira, peça que ele revise seu código, ajude a encontrar problemas de segurança e bugs. Trabalhar em equipe aumenta muito o aprendizado. É nesse ponto que estou hoje, sou jr e estou próximo de profissionais plenos e seniors, o que aumenta a motivação e agrega diversos insights. As revisões de código são uma maneira de sentir na pele o que podemos melhorar como desenvolvedores.
 
 ## Outros aprendizados
 
