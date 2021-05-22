@@ -99,5 +99,5 @@ Nenhum aprendizado foi inútil. Alguns, porém, são menos importantes para cons
 
 ## Fontes:
 
-https://github.com/kamranahmedse/developer-roadmap
-https://www.discoverdatascience.org/career-information/
+[https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+[https://www.discoverdatascience.org/career-information/](https://www.discoverdatascience.org/career-information/)
