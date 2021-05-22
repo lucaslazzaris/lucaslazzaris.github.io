@@ -42,7 +42,7 @@ Meu mestrado foi a implementação de um modelo de fluidodinâmica computacional
 
 Em junho de 2020, comecei a trabalhar na multiacional em que fiz estágio na posição de pesquisador de termodinâmica e continuei o mestrado após o trabalho. Parecia a realização de um sonho. Porém, a medida que os meses foram passando, eu percebi que já não programava mais. Minha rotina consistia de reuniões, apresentações em slides, planilhas de excel, modelagem de sólidos em CAD (como o SolidWorks) e simulações utilizando códigos comerciais (através de interfaces gráficas). Em 9 meses, março de 2021, início da pandemia do COVID 19, o sonho acabou. Durante alguns dias refleti sobre o quanto o trabalho era compatível com o que eu queria, e decidi que iria virar programador, fazer aquilo que eu sempre gostei.
 
-Sendo bem honesto, nessa fase, eu já não tinha o mesmo amor pela física (complexa) da termodinâmica. Então comecei a pesquisar as vagas para programadores em empresas de Santa Catarina. 
+Sendo bem honesto, nessa fase, eu já não tinha o mesmo amor pela física (complexa) da termodinâmica. Então comecei a pesquisar as vagas para programadores em empresas de Santa Catarina.
 
 O que se seguiu, foi o estudo menos estruturado que eu já experienciei. Eu inicialmente vi vagas em empresas de games, e como sempre gostei de jogos pensei: por que não? Comecei a estudar mais a fundo C++ (inclusive alguns temas mais complexos como programação em GPUs), e o básico de C#. Nessa época li o Clean Code do Uncle Bob e o livro sobre Test-Driven Design do Kent Beck. Utilizei a plataforma da Pluralsight que possui ótimos cursos. Em poucas semanas percebi que talvez não fosse isso que eu queria.
 
@@ -63,6 +63,8 @@ Uma semana depois, no começo de setembro, um dos líderes me chamou no escritó
 Começando na nova empresa, era hora de voltar a estudar. Dessa vez, eu poderia estudar com mais calma. Trabalhar durante o dia, fazer mestrado e intercalar com os estudos de programação de noite, ainda seria pesado, mas em vez de ficar até meia noite, poderia parar mais cedo e evitar o burnout.
 
 Comecei estudando rails, já que é a stack que usamos no dia a dia. Em seguida fiz o curso de web do Colt Steele na Udemy, super recomendado para pessoas que nunca trabalhar com web. E por último fiz o curso de react e redux do Stephen Grider na Udemy.
+
+Acabei não tendo a oportunidade (e o tempo) para estudar sobre a carreira de desenvolvedor _mobile_, mas pelo vi e ouvi, parece ser uma área promissora. Gostaria de no futuro testar as tecnologias, mesmo que apenas para conhecimento próprio. 
 
 Depois de 3 meses de estágio fui efetivado e recentemente defendi o mestrado, fechando a etapa de enegenharia mecânica. Pretendo aproveitar o tempo livre de noite para entender um pouco mais do universo da programação. Acredito que agora é a hora de parar de fazer cursos e colocar mais a mão na massa.
 
@@ -95,9 +97,7 @@ Nenhum aprendizado foi inútil. Alguns, porém, são menos importantes para cons
 - Estudar uma linguagem de mais baixo nível como C ou C++ é super válido para entender um pouco mais do gerenciamento de memória;
 - Entender como o sistema operacional funciona (em um nível mais alto) entender o que são threads, processos, fragmentação de memória diminui um pouco a sensação de que o computador faz mágica (mas ele faz).
 
-### Todo:
+## Fontes:
 
-Fontes:
-
-Colocar roadmap web.
-Colocar carreiras data.
+https://github.com/kamranahmedse/developer-roadmap
+https://www.discoverdatascience.org/career-information/
