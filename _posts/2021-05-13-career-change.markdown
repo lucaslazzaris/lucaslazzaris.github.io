@@ -6,10 +6,10 @@ smmry: After five years of college education, 1.5 of master's and nine months wo
 read_time: 15 min
 ---
 
-Hi! Welcome to my blog. I’m Lucas Cercal and a big fan of games since six years old when my parents bought their first computer. At the age of 17, I  faced that decision of a lifetime: my career. I chose to study Mechanical Engineering, not because I love any specific area, but because it presented a wide job market.
+Hi! Welcome to my blog. I'm Lucas Cercal and a big fan of games since six years old when my parents bought their first computer. At the age of 17, I  faced that decision of a lifetime: my career. I chose to study Mechanical Engineering, not because I love any specific area, but because it presented a wide job market.
 
 
-During college, I liked most the thermodynamics field. So, I started working as an undergraduate student researcher in a renowned laboratory. My first work was with a fluid dynamics commercial code., which allowed me to include code written in C to extend the basic functionalities. That’s where my programming story starts.
+During college, I liked most the thermodynamics field. So, I started working as an undergraduate student researcher in a renowned laboratory. My first work was with a fluid dynamics commercial code., which allowed me to include code written in C to extend the basic functionalities. That's where my programming story starts.
 
 <div align="center">
   <img alt="Hello world with bug" style="width:300px" src="{{site.url}}/assets/img/career_change/helloworld.png"/>
@@ -29,9 +29,9 @@ In this first project, I had to understand and code a little. But on the followi
 
 Learning Python was way more pleasant than C. I used Codecademy and, in a few hours, I could write scripts to solve some simple numerical problems.
 
-Unfortunately, Python’s performance was not good enough to solve the project (competing with Fortran is challenging). So, I retired from Python in my research activities. Yet I took a course on Udemy by Jose Portilla about data science because I was curious. And it helped me better visualize and present data.
+Unfortunately, Python's performance was not good enough to solve the project (competing with Fortran is challenging). So, I retired from Python in my research activities. Yet I took a course on Udemy by Jose Portilla about data science because I was curious. And it helped me better visualize and present data.
 
-The project changed to C++ to enhance performance. And that’s the language I worked for almost three years. I employed Deitel & Deitel’s book to learn the basics of C++.
+The project changed to C++ to enhance performance. And that's the language I worked for almost three years. I employed Deitel & Deitel's book to learn the basics of C++.
 
 In my fifth college year, I worked a semester as a researcher intern in a multinational. That was a great experience! I kept working mainly with C++ programming and solving automation problems with Python. And I employed VBA to manage Windows processes and run some simulations in parallel. The idea was to increase the number of instances of a program used to optimize components.
 
@@ -41,7 +41,7 @@ The first year taking my master was focused mainly on the classes and helping ot
 
 My thesis was the implementation of a computational fluid dynamic model using C++. My programming journal from March 2015 to May 2020 is mainly based on coding numerical simulations using C++ and Python.
 
-In June 2020, I got the job of my dreams and started as a thermodynamics researcher at the same multinational where I took my internship. Since my master’s thesis was not complete, I still had to work on my on it after work. It seemed a dream come true. But as the months went by, I realized I was not programming anymore. My routine consisted of project meetings, slide presentations, spreadsheets, a lot of experimental tests, CAD modeling (like SolidWorks), and commercial code simulations (through graphic interfaces). After nine months (March 2021), I realized that was not my dream anymore. Worst yet, it was the beginning of the COVID pandemic.
+In June 2020, I got the job of my dreams and started as a thermodynamics researcher at the same multinational where I took my internship. Since my master's thesis was not complete, I still had to work on my on it after work. It seemed a dream come true. But as the months went by, I realized I was not programming anymore. My routine consisted of project meetings, slide presentations, spreadsheets, a lot of experimental tests, CAD modeling (like SolidWorks), and commercial code simulations (through graphic interfaces). After nine months (March 2021), I realized that was not my dream anymore. Worst yet, it was the beginning of the COVID pandemic.
 
 To be honest, at that time, I didn't have the same love for (complex) thermodynamic physics. So, I started looking for job openings for programmers in my state (Santa Catarina).
 
@@ -59,7 +59,7 @@ I started taking a course on Udemy about Web development with Django. At the end
 
 Without a lot of hope, I prepared my resume and sent it to his company (and other five companies). Only two of them called me for an interview, while the other companies put away my resume (and I get them, it was all about numeric simulations). I was called for a take-home code assignment for a basic web project. I had two weeks to build the best code I could. At the code review interview, there were four engineering tech leads. I was honest about how inexperienced very determined to learn I was.
 
-A week later, at the beginning of September, a leader called me at the office (with social distancing) to tell me that I got the internship at JobScore! I talked to my leader at the multinational and, a few days later, I left my job. I took almost 45 sabbatical days between the end of one and the start of another position. During that time, I rested without studying. I only took the Codecademy Ruby course since that would be my main language from now on. I didn’t slow down just because I got a new job. I slowed down because the last six months were hard. I worked and studied every day from 7:30 A.M. to midnight.
+A week later, at the beginning of September, a leader called me at the office (with social distancing) to tell me that I got the internship at JobScore! I talked to my leader at the multinational and, a few days later, I left my job. I took almost 45 sabbatical days between the end of one and the start of another position. During that time, I rested without studying. I only took the Codecademy Ruby course since that would be my main language from now on. I didn't slow down just because I got a new job. I slowed down because the last six months were hard. I worked and studied every day from 7:30 A.M. to midnight.
 
 At the new company, it was time to get back to study. This time, I could study at a slower pace. Working during the day, doing my master's and, learning programming at night would still be intense. But I could sleep earlier to avoid the famous burn-out.
 
@@ -67,13 +67,13 @@ I started studying Ruby on Rails because it is our everyday stack. Then I took t
 
 I didn't have the opportunity (nor time) to study the mobile developer career path. Yet it seems a promising field. I want to try some mobile technologies in the future, even just out of curiosity.
 
-After three months of internship, I got the Software Engineer position. Recently I presented my master’s thesis and closed the mechanical engineering phase. I intend now to take some free time to understand a little better about the programming universe. It is time to stop taking courses and start taking a hands-on approach. At least, I believe in that.
+After three months of internship, I got the Software Engineer position. Recently I presented my master's thesis and closed the mechanical engineering phase. I intend now to take some free time to understand a little better about the programming universe. It is time to stop taking courses and start taking a hands-on approach. At least, I believe in that.
 
 ## Main Study Conclusions
 
 After trying three different fields in a very unorganized way, I spent more energy than needed. Still, I reached my goal: work as a developer. I want to share some thoughts to help people in the same situation. If I had to do everything again, I would try the following to change my career in the least time possible:
 
-Research what programmers from different fields do, talk to some, and choose one. After it, it is time to study. Each person learns best in different ways. I’ll tell you what works best for me: taking video classes (courses) to understand the main concepts. And read the documentation for more specific stuff. In both cases, it’s better to code along, even if only to create muscular memory.
+Research what programmers from different fields do, talk to some, and choose one. After it, it is time to study. Each person learns best in different ways. I'll tell you what works best for me: taking video classes (courses) to understand the main concepts. And read the documentation for more specific stuff. In both cases, it's better to code along, even if only to create muscular memory.
 
 If it is your first contact with programming, I suggest starting with an interpreted language at Codecademy. Probably Python because it is employed both on web and data science.
 
@@ -85,11 +85,11 @@ The Full-Stack programmer is specialized in a field but understands a little abo
 
 After all those courses are over, it's time to create personal projects to build a portfolio. Even though it's not mandatory, it helps a lot. Alongside the project, learn TDD via Kent Back's book or an online tutorial. Testing is part of the everyday work of a Software Engineer. And some companies may ask for tests during the recruiting process. Another great book is Clean Code, especially for engineers (electrical, mechanical) who use greek symbols as variable names (like speed difference = delta_x_dot).
 
-The time to seek a job has come. What to do now? There are people specialized in helping others find jobs. I am not one of them. But the following worked for me: write a one-page long resume with your professional and academic experiences ordered from newest to oldest. If you have personal projects, list them! But the most important is to find companies willing to take and train junior professionals. Before each interview, try to understand the company’s product. Sometimes it’s not needed, but if you are going to work there, it’s best to like the product. And don’t forget the company culture. If there is no alignment with your beliefs, it won’t work for you.
+The time to seek a job has come. What to do now? There are people specialized in helping others find jobs. I am not one of them. But the following worked for me: write a one-page long resume with your professional and academic experiences ordered from newest to oldest. If you have personal projects, list them! But the most important is to find companies willing to take and train junior professionals. Before each interview, try to understand the company's product. Sometimes it's not needed, but if you are going to work there, it's best to like the product. And don't forget the company culture. If there is no alignment with your beliefs, it won't work for you.
 
 Do not be frightened by the job requirements. Several jobs openings won't find a professional that meets all requirements. Particularly in programming, where job openings turn into Twitter jokes because of the abuse of requirements.
 
-Ask for an experienced Software Engineer to help you with your career change, perform code reviews and help you with catching bugs and security issues. Working on a company speeds a lot the learning - it’s worth getting lower compensation than you got now to make the transition. That is where I am today. I am a junior near seniors professionals, which is very motivational and insightful. Code reviews are great to understand how we can become better engineers.
+Ask for an experienced Software Engineer to help you with your career change, perform code reviews and help you with catching bugs and security issues. Working on a company speeds a lot the learning - it's worth getting lower compensation than you got now to make the transition. That is where I am today. I am a junior near seniors professionals, which is very motivational and insightful. Code reviews are great to understand how we can become better engineers.
 
 ## Other learnings
 
